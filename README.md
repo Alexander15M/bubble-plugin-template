@@ -5,8 +5,8 @@ A basic template for creating custom plugins for Bubble.io applications.
 ## Project Structure
 
 - `index.html` - Main HTML file that loads the necessary scripts and styles
-- `initialize.js` - Handles plugin initialization
-- `update.js` - Contains update logic for the plugin
+- `initialize.js` - Handles element instance initialization
+- `update.js` - Contains update logic for the element instance
 - `styles.css` - Stylesheet for the plugin
 
 ## Getting Started
@@ -35,7 +35,5 @@ To start developing your plugin:
 ## License
 
 MIT License
-
-Copyright (c) 2024
 
 Just use this idc hope it helps
