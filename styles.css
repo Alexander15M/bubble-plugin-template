@@ -1,0 +1,11 @@
+
+  /* this goes into the page header */
+  /* in bubble, you'll go to your main plugin editor -> Shared -> HTML header */
+  /* You'll need to wrap the content in a <style> tag */
+
+  /* You can set specific styles for your instance too, by going to the elements tab */
+  /* and selecting the instance element, and adding styles in the Element code section */
+
+body {
+  /* background-color: red; */ /* this will turn your page red lol */
+}
